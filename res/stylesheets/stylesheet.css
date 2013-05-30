@@ -1,0 +1,17 @@
+p {
+	width: 50%;
+}
+.columnTwo {
+	float: right;
+	width: 50%;
+}
+#sidebar {
+	float: right;
+	width: 25%;
+}
+#sidebar a {
+	display: block;
+}
+body {
+	background-image: ;
+}
